@@ -1,3 +1,3 @@
-another commit
-
+this is again my first commit!
+git status
 and here we go with commit number 2
